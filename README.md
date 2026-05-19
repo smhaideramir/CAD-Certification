@@ -46,3 +46,7 @@ Only PDF documentation is included here. Native CAD files are not currently incl
 ## CAD source files
 
 The original native CAD files are not included in this repository. At the moment, the repository contains the certificate, task description, and final technical drawing in PDF format.
+
+## Usage note
+
+This repository is intended as a personal portfolio record of my CAD certification work. Course material and task descriptions belong to their respective institution/authors. Please do not reuse the task material without permission.
