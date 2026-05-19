@@ -12,10 +12,6 @@ The project involved working on a technical CAD task related to a gearbox assemb
 | [`task/cad-task-description.pdf`](task/cad-task-description.pdf) | Original CAD task description |
 | [`drawings/input-shaft-technical-drawing.pdf`](drawings/input-shaft-technical-drawing.pdf) | Final technical drawing of the input shaft |
 
-## Preview
-
-![Input shaft technical drawing](images/input-shaft-preview.png)
-
 ## Skills demonstrated
 
 - Basic CAD modelling workflow
@@ -34,6 +30,10 @@ The CAD training was completed using Creo Parametric as part of the IPEK CAD Bas
 The assignment focused on a gearbox-related component. My final submitted work was a technical drawing of an input shaft, including its geometry, dimensions, section view, and relevant manufacturing details.
 
 Although this project is not directly a physics research project, it is relevant to experimental physics and engineering environments where technical drawings, mechanical components, instrument design, and clear documentation are important.
+
+## Preview
+
+![Input shaft technical drawing](images/input-shaft-preview.png)
 
 ## Reflection
 
