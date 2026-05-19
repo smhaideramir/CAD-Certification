@@ -12,6 +12,10 @@ The project involved working on a technical CAD task related to a gearbox assemb
 | [`task/cad-task-description.pdf`](task/cad-task-description.pdf) | Original CAD task description |
 | [`drawings/input-shaft-technical-drawing.pdf`](drawings/input-shaft-technical-drawing.pdf) | Final technical drawing of the input shaft |
 
+## Preview
+
+![Input shaft technical drawing](images/input-shaft-preview.png)
+
 ## Skills demonstrated
 
 - Basic CAD modelling workflow
