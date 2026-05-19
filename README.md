@@ -42,3 +42,7 @@ This certification helped me understand how mechanical parts are represented, di
 ## Note
 
 Only PDF documentation is included here. Native CAD files are not currently included, either because they are unavailable or because of course/material restrictions.
+
+## CAD source files
+
+The original native CAD files are not included in this repository. At the moment, the repository contains the certificate, task description, and final technical drawing in PDF format.
